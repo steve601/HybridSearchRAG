@@ -1,0 +1,8 @@
+langchain
+langchain_community 
+huggingface_hub
+pypdf
+langchain_huggingface
+chromadb
+langchain_core
+rank_bm25
